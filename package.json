@@ -1,14 +1,11 @@
 {
-  "name": "vitepress-starter",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.4"
+    "vite-plugin-vitepress-auto-nav": "^2.2.1",
+    "vitepress": "1.0.0-rc.45"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:preview": "vitepress preview docs"
   }
 }
