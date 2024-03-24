@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'sygence前端笔记',
   description: 'A VitePress Site',
+  base: "/myBook/",
   // 解决网络图片不显示问题
   head: [
     [
