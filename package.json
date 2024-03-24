@@ -8,7 +8,5 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
-  "packageManager":{
-    "pnpm":"7.2.27"
-  }
+  "packageManager":"pnpm@^6.32.4"
 }
