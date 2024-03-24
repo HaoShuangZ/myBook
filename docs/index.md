@@ -15,11 +15,11 @@ hero:
     #   link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 好好学习
+    details: Good Good Study
+  - title: 天天向上
+    details: Day Day Up
+  - title: 继续更新
+    details: Loading UpData
 ---
 
