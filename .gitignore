@@ -4,3 +4,4 @@ dist
 .eslintrc.js
 .eslintignore
 .eslintcach
+docs/.vitepress/cache

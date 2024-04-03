@@ -1,6 +1,13 @@
 {
   "devDependencies": {
+    "@algolia/client-search": "^4.23.2",
+    "@types/node": "^20.12.2",
+    "@yicode/yidocs-auto": "^1.6.0",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.3",
+    "vite": "^5.2.7",
     "vite-plugin-vitepress-auto-nav": "^2.2.1",
+    "vite-plugin-vitepress-auto-sidebar": "^1.6.3",
     "vitepress": "1.0.0-rc.45"
   },
   "scripts": {
@@ -8,5 +15,8 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
-  "packageManager":"pnpm@^6.32.4"
+  "packageManager": "pnpm@^6.32.4",
+  "dependencies": {
+    "search-insights": "^2.13.0"
+  }
 }
