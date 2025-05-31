@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 去学习
-      link: /1.HTML篇.html
+      link: /webDocs/前端基础/1.HTML篇.html
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
@@ -22,4 +22,3 @@ features:
   - title: 继续更新
     details: Loading UpData
 ---
-
